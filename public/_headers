@@ -7,7 +7,7 @@
   X-XSS-Protection: 1; mode=block
   Referrer-Policy: no-referrer
 
-/assets/*.js
+xx/assets/*.js
   Content-Type: application/javascript
 
 /assets/*.css
