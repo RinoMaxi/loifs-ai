@@ -6,7 +6,7 @@ export default defineConfig({
     viteStaticCopy({
       targets: [
         {
-          src: '_headers',
+         src: 'public/_headers',
           dest: '.' // copies to dist root
         }
       ]
