@@ -10,13 +10,15 @@
     "node": "18.x.x || 19.x.x"
   },
   "dependencies": {
+    "@mui/material": "^5.14.4",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-icons": "^4.10.1",
-    "react-router-dom": "^6.20.1",
-    "@mui/material": "^5.14.4"
+    "react-router-dom": "^6.20.1"
   },
   "devDependencies": {
-    "vite": "^4.4.9"
+    "@vitejs/plugin-react": "^5.0.2",
+    "typescript": "^5.0.4",
+    "vite": "^7.1.5"
   }
 }
