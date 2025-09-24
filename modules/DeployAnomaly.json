@@ -1,0 +1,6 @@
+{
+  "module": "DeployAnomaly",
+  "trigger": "Netlify deploy fails with header and redirect rule errors",
+  "observation": "Platform shifts error context without preserving logic trace",
+  "recommendation": "Centralize config logic in netlify.toml and validate build locally before pushing"
+}
